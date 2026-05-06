@@ -1,3 +1,5 @@
+
+<img width="1116" height="455" alt="Screenshot 2026-05-06 at 2 23 27 PM" src="https://github.com/user-attachments/assets/adc40740-b002-48d3-be6d-e36531a6297f" />
 # Climate Reporting Support System for Senior Residents in East San Jose
 
 ## 1. Problem and Who It Affects
@@ -67,15 +69,6 @@ After the AI creates the report, a city worker or department should review it. T
 Human review is important because the AI may make mistakes. A person should check if the issue was understood correctly before the city takes action.
 
 ### Screenshots
-
-Screenshots from the lab outputs should be added here.
-
-Suggested screenshots to include:
-
-- Screenshot of the Lab 2 structured AI output
-- Screenshot of the Lab 3 image analysis output
-- Screenshot showing the AI’s urgency and department decision
-- Screenshot showing the failure case or wrong classification
 
 ## 4. Failure Case Tied to a Lab Output
 
