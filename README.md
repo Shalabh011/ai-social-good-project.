@@ -69,7 +69,6 @@ Human review is important because the AI may make mistakes. A person should chec
 ### Screenshots
 
 <img width="1116" height="455" alt="Screenshot 2026-05-06 at 2 23 27 PM" src="https://github.com/user-attachments/assets/adc40740-b002-48d3-be6d-e36531a6297f" />
-<img width="1592" height="484" alt="Screenshot 2026-05-06 at 2 19 01 PM" src="https://github.com/user-attachments/assets/6914c98d-001b-465d-9562-3c4eb4e2f335" />
 <img width="1110" height="588" alt="Screenshot 2026-05-06 at 2 25 45 PM" src="https://github.com/user-attachments/assets/3014bcea-9880-450e-b0c9-75ae023027ea" />
 <img width="1564" height="699" alt="Screenshot 2026-05-06 at 2 30 05 PM" src="https://github.com/user-attachments/assets/df54e86f-cc6d-4f28-a6fd-4e032c07d77c" />
 <img width="1568" height="749" alt="Screenshot 2026-05-06 at 2 29 51 PM" src="https://github.com/user-attachments/assets/3cefefc9-d88e-40e6-9096-fbe0cdd6b935" />
