@@ -1,5 +1,4 @@
-<img width="1562" height="269" alt="Screenshot 2026-05-06 at 2 34 39 PM" src="https://github.com/user-attachments/assets/200b3a7d-44b1-4be9-ad16-545a1461457f" />
-<img width="1547" height="780" alt="Screenshot 2026-05-06 at 2 34 29 PM" src="https://github.com/user-attachments/assets/edfc6824-6453-4d22-ab50-d106fd6d996d" />
+
 # Climate Reporting Support System for Senior Residents in East San Jose
 
 ## 1. Problem and Who It Affects
@@ -75,7 +74,8 @@ Human review is important because the AI may make mistakes. A person should chec
 <img width="1304" height="839" alt="Screenshot 2026-05-06 at 2 29 37 PM" src="https://github.com/user-attachments/assets/59691cb3-1df4-4e93-8812-afa804343fcd" />
 <img width="1564" height="699" alt="Screenshot 2026-05-06 at 2 30 05 PM" src="https://github.com/user-attachments/assets/df54e86f-cc6d-4f28-a6fd-4e032c07d77c" />
 <img width="1568" height="749" alt="Screenshot 2026-05-06 at 2 29 51 PM" src="https://github.com/user-attachments/assets/3cefefc9-d88e-40e6-9096-fbe0cdd6b935" />
-
+<img width="1562" height="269" alt="Screenshot 2026-05-06 at 2 34 39 PM" src="https://github.com/user-attachments/assets/200b3a7d-44b1-4be9-ad16-545a1461457f" />
+<img width="1547" height="780" alt="Screenshot 2026-05-06 at 2 34 29 PM" src="https://github.com/user-attachments/assets/edfc6824-6453-4d22-ab50-d106fd6d996d" />
 
 
 
